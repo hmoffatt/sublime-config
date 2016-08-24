@@ -5,7 +5,14 @@
 	],
 	"installed_packages":
 	[
+		"Boxy Theme",
+		"BracketHighlighter",
+		"Git",
 		"Grunt",
-		"HypnotoadSVN"
+		"HypnotoadSVN",
+		"Package Control",
+		"Qt Completions for C++",
+		"SideBarEnhancements",
+		"SublimeCodeIntel"
 	]
 }
