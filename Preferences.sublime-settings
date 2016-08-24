@@ -1,7 +1,7 @@
 {
+	"auto_find_in_selection": true,
 	"ignored_packages":
 	[
 		"Vintage"
-	],
-	"auto_find_in_selection": true,
+	]
 }
