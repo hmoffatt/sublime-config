@@ -20,11 +20,8 @@
 		"node_modules/**"
 	],
 	"bold_folder_labels": true,
-	"caret_extra_bottom": 1,
-	"caret_extra_top": 1,
-	"caret_extra_width": 1,
-	"caret_style": "blink",
 	"color_scheme": "Packages/Boxy Theme/schemes/Boxy Monokai.tmTheme",
+	"draw_white_space": "all",
 	"fade_fold_buttons": false,
 	"highlight_line": true,
 	"ignored_packages":
