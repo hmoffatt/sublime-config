@@ -26,7 +26,6 @@
 	"highlight_line": true,
 	"ignored_packages":
 	[
-		"Boxy Theme",
 		"Vintage"
 	],
 	"indent_guide_options":
