@@ -2,6 +2,7 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
+		"Boxy Theme"
 	],
 	"installed_packages":
 	[
@@ -14,7 +15,9 @@
 		"Package Control",
 		"Pretty JSON",
 		"Qt Completions for C++",
+		"Sass",
 		"SideBarEnhancements",
-		"SublimeCodeIntel"
+		"SublimeCodeIntel",
+		"Theme - Monokai Pro"
 	]
 }
