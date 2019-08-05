@@ -2,7 +2,8 @@
 {
     "linters": {
         "pycodestyle": {
-            "args": ["--max-line-length=200", "--ignore="],
+            "args": ["--max-line-length=200"],
+            //"args": ["--max-line-length=200", "--ignore=E501"],
             //"ignore": "E501,C0301,W0142,W0402,R0201,E1101,E1102,C0103,R0901,R0903,R0904,C1001,W0223,W0232,W0201,E1103,R0801,C0111",
 		}
 	},    
