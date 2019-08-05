@@ -16,6 +16,8 @@
 		"Sass",
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-pycodestyle",
 		"Theme - Monokai Pro"
 	]
 }
