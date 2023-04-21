@@ -18,6 +18,7 @@
 		"SublimeCodeIntel",
 		"SublimeLinter",
 		"SublimeLinter-pycodestyle",
-		"Theme - Monokai Pro"
-	]
+		"Theme - Monokai Pro",
+		"WindowsContextMenu",
+	],
 }
